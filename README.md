@@ -1,16 +1,3 @@
 # dada_pneumonia_detector
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In rural communities, access to reliable healthcare is a major challenge. The rural population depends on traditional remedies to tackle different ailments. However, acute inflammation of the respiratory tract occasioned by the presence of viruses and bacteria can lead to a condition called pneumonia. This condition always proves difficult to manage with traditional medicine. Hence, there is a need to introduce a technology-driven solution for early detection of pneumonia, particularly in rural communities
